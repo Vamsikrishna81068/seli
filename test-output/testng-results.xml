@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-28T10:15:52 IST" name="Default suite" finished-at="2024-01-28T10:16:09 IST" duration-ms="16754">
+    <groups>
+    </groups>
+    <test started-at="2024-01-28T10:15:52 IST" name="Default test" finished-at="2024-01-28T10:16:09 IST" duration-ms="16754">
+      <class name="selinium.Facebooklogin">
+        <test-method is-config="true" signature="test()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:15:49 IST" name="test" finished-at="2024-01-28T10:15:52 IST" duration-ms="3293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="getTitleOfThePage()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:15:52 IST" name="getTitleOfThePage" finished-at="2024-01-28T10:15:52 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleOfThePage -->
+        <test-method signature="registrationForm()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:15:52 IST" name="registrationForm" finished-at="2024-01-28T10:16:09 IST" duration-ms="16711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationForm -->
+        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:16:09 IST" name="close" finished-at="2024-01-28T10:16:09 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- selinium.Facebooklogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
