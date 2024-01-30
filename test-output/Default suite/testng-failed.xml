@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="selinium.Facebooklogin">
+      <class name="selinium.Automa">
         <methods>
-          <include name="test"/>
+          <include name="open"/>
           <include name="close"/>
-          <include name="registrationForm"/>
+          <include name="Title"/>
         </methods>
-      </class> <!-- selinium.Facebooklogin -->
+      </class> <!-- selinium.Automa -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

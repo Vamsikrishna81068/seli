@@ -1,29 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-28T10:15:52 IST" name="Default suite" finished-at="2024-01-28T10:16:09 IST" duration-ms="16754">
+  <suite started-at="2024-01-30T09:06:17 IST" name="Default suite" finished-at="2024-01-30T09:07:15 IST" duration-ms="57425">
     <groups>
     </groups>
-    <test started-at="2024-01-28T10:15:52 IST" name="Default test" finished-at="2024-01-28T10:16:09 IST" duration-ms="16754">
-      <class name="selinium.Facebooklogin">
-        <test-method is-config="true" signature="test()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:15:49 IST" name="test" finished-at="2024-01-28T10:15:52 IST" duration-ms="3293" status="PASS">
+    <test started-at="2024-01-30T09:06:17 IST" name="Default test" finished-at="2024-01-30T09:07:15 IST" duration-ms="57425">
+      <class name="selinium.Automa">
+        <test-method is-config="true" signature="open()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:17 IST" name="open" finished-at="2024-01-30T09:06:26 IST" duration-ms="8728" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-        <test-method signature="getTitleOfThePage()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:15:52 IST" name="getTitleOfThePage" finished-at="2024-01-28T10:15:52 IST" duration-ms="15" status="PASS">
+        </test-method> <!-- open -->
+        <test-method signature="Title()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:26 IST" name="Title" finished-at="2024-01-30T09:06:26 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getTitleOfThePage -->
-        <test-method signature="registrationForm()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:15:52 IST" name="registrationForm" finished-at="2024-01-28T10:16:09 IST" duration-ms="16711" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registrationForm -->
-        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Facebooklogin@47e2e487]" started-at="2024-01-28T10:16:09 IST" name="close" finished-at="2024-01-28T10:16:09 IST" duration-ms="143" status="PASS">
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:26 IST" name="close" finished-at="2024-01-30T09:06:26 IST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- selinium.Facebooklogin -->
+        <test-method is-config="true" signature="open()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:26 IST" name="open" finished-at="2024-01-30T09:06:33 IST" duration-ms="6774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="Url()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:33 IST" name="Url" finished-at="2024-01-30T09:06:33 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:33 IST" name="close" finished-at="2024-01-30T09:06:33 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="open()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:33 IST" name="open" finished-at="2024-01-30T09:06:41 IST" duration-ms="7630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="reg()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:41 IST" name="reg" finished-at="2024-01-30T09:07:15 IST" duration-ms="33596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg -->
+        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:07:15 IST" name="close" finished-at="2024-01-30T09:07:15 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- selinium.Automa -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
