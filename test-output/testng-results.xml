@@ -1,49 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-30T09:06:17 IST" name="Default suite" finished-at="2024-01-30T09:07:15 IST" duration-ms="57425">
+  <suite started-at="2024-02-10T20:11:46 IST" name="Default suite" finished-at="2024-02-10T20:12:02 IST" duration-ms="15830">
     <groups>
     </groups>
-    <test started-at="2024-01-30T09:06:17 IST" name="Default test" finished-at="2024-01-30T09:07:15 IST" duration-ms="57425">
-      <class name="selinium.Automa">
-        <test-method is-config="true" signature="open()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:17 IST" name="open" finished-at="2024-01-30T09:06:26 IST" duration-ms="8728" status="PASS">
+    <test started-at="2024-02-10T20:11:46 IST" name="Default test" finished-at="2024-02-10T20:12:02 IST" duration-ms="15830">
+      <class name="selin.Dropmenu">
+        <test-method is-config="true" signature="open()[pri:0, instance:selin.Dropmenu@58695725]" started-at="2024-02-10T20:11:46 IST" name="open" finished-at="2024-02-10T20:11:54 IST" duration-ms="8487" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open -->
-        <test-method signature="Title()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:26 IST" name="Title" finished-at="2024-01-30T09:06:26 IST" duration-ms="24" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Title -->
-        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:26 IST" name="close" finished-at="2024-01-30T09:06:26 IST" duration-ms="260" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-        <test-method is-config="true" signature="open()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:26 IST" name="open" finished-at="2024-01-30T09:06:33 IST" duration-ms="6774" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- open -->
-        <test-method signature="Url()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:33 IST" name="Url" finished-at="2024-01-30T09:06:33 IST" duration-ms="9" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Url -->
-        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:33 IST" name="close" finished-at="2024-01-30T09:06:33 IST" duration-ms="217" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- close -->
-        <test-method is-config="true" signature="open()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:33 IST" name="open" finished-at="2024-01-30T09:06:41 IST" duration-ms="7630" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- open -->
-        <test-method signature="reg()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:06:41 IST" name="reg" finished-at="2024-01-30T09:07:15 IST" duration-ms="33596" status="PASS">
+        <test-method signature="reg()[pri:0, instance:selin.Dropmenu@58695725]" started-at="2024-02-10T20:11:54 IST" name="reg" finished-at="2024-02-10T20:12:02 IST" duration-ms="7157" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reg -->
-        <test-method is-config="true" signature="close()[pri:0, instance:selinium.Automa@58695725]" started-at="2024-01-30T09:07:15 IST" name="close" finished-at="2024-01-30T09:07:15 IST" duration-ms="152" status="PASS">
+        <test-method is-config="true" signature="qu()[pri:0, instance:selin.Dropmenu@58695725]" started-at="2024-02-10T20:12:02 IST" name="qu" finished-at="2024-02-10T20:12:02 IST" duration-ms="154" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- close -->
-      </class> <!-- selinium.Automa -->
+        </test-method> <!-- qu -->
+      </class> <!-- selin.Dropmenu -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

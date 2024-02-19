@@ -13,7 +13,8 @@ public class Link {
 	WebDriver odriver;
 	@BeforeMethod
 	void add() {
-		WebDriverManager.chromedriver().setup();
+		WebDriverManager.chromedriver().setup()
+		;
 		 odriver=new ChromeDriver();
 		 odriver.manage().window().maximize();
 		 odriver.manage().deleteAllCookies();
@@ -21,6 +22,7 @@ public class Link {
 		 }
        @Test
        void open() throws InterruptedException  {
+    	   
     	   Thread.sleep(3000);
     	   //odriver.findElement(By.id("email")).sendKeys("8106846189");
     	   //odriver.findElement(By.id("pass")).sendKeys("Vamsi940");
