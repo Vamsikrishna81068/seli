@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-10T20:11:46 IST" name="Default suite" finished-at="2024-02-10T20:12:02 IST" duration-ms="15830">
+  <suite started-at="2024-03-18T14:39:39 IST" name="Default suite" finished-at="2024-03-18T14:40:18 IST" duration-ms="39406">
     <groups>
     </groups>
-    <test started-at="2024-02-10T20:11:46 IST" name="Default test" finished-at="2024-02-10T20:12:02 IST" duration-ms="15830">
-      <class name="selin.Dropmenu">
-        <test-method is-config="true" signature="open()[pri:0, instance:selin.Dropmenu@58695725]" started-at="2024-02-10T20:11:46 IST" name="open" finished-at="2024-02-10T20:11:54 IST" duration-ms="8487" status="PASS">
+    <test started-at="2024-03-18T14:39:39 IST" name="Default test" finished-at="2024-03-18T14:40:18 IST" duration-ms="39406">
+      <class name="selin.Alerts1">
+        <test-method is-config="true" signature="open()[pri:0, instance:selin.Alerts1@58695725]" started-at="2024-03-18T14:39:39 IST" name="open" finished-at="2024-03-18T14:39:58 IST" duration-ms="19623" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- open -->
-        <test-method signature="reg()[pri:0, instance:selin.Dropmenu@58695725]" started-at="2024-02-10T20:11:54 IST" name="reg" finished-at="2024-02-10T20:12:02 IST" duration-ms="7157" status="PASS">
+        <test-method signature="reg()[pri:0, instance:selin.Alerts1@58695725]" started-at="2024-03-18T14:39:58 IST" name="reg" finished-at="2024-03-18T14:40:15 IST" duration-ms="17069" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reg -->
-        <test-method is-config="true" signature="qu()[pri:0, instance:selin.Dropmenu@58695725]" started-at="2024-02-10T20:12:02 IST" name="qu" finished-at="2024-02-10T20:12:02 IST" duration-ms="154" status="PASS">
+        <test-method is-config="true" signature="qu()[pri:0, instance:selin.Alerts1@58695725]" started-at="2024-03-18T14:40:15 IST" name="qu" finished-at="2024-03-18T14:40:18 IST" duration-ms="2632" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- qu -->
-      </class> <!-- selin.Dropmenu -->
+      </class> <!-- selin.Alerts1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
